@@ -1,0 +1,7 @@
+Executable : C:\Users\ysy97\AppData\Local\Android\sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\ysy97\workspace\projects\retivision_v2\native_opencv\android\.cxx\cmake\release\x86
+native_opencv
+jvmArgs : 
+

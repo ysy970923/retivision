@@ -1,0 +1,3 @@
+C:/Users/ysy97/workspace/projects/retivision_v2/native_opencv/android/.cxx/cmake/release/x86/CMakeFiles/native_opencv.dir
+C:/Users/ysy97/workspace/projects/retivision_v2/native_opencv/android/.cxx/cmake/release/x86/CMakeFiles/edit_cache.dir
+C:/Users/ysy97/workspace/projects/retivision_v2/native_opencv/android/.cxx/cmake/release/x86/CMakeFiles/rebuild_cache.dir

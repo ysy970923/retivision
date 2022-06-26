@@ -1,0 +1,47 @@
+{
+  "stringTable": {
+    "0": "C:/Users/ysy97/workspace/projects/retivision_v2/native_opencv/android/.cxx/cmake/release/x86_64",
+    "1": "--target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/ysy97/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ysy97/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_opencv_EXPORTS -I../../../../../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\ysy97\\workspace\\projects\\retivision_v2\\native_opencv\\android\\CMakeLists.txt",
+    "C:\\Users\\ysy97\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\ysy97\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\build\\cmake\\android-legacy.toolchain.cmake",
+    "C:\\Users\\ysy97\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\ysy97\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\build\\cmake\\compiler_id.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\ysy97\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\ysy97\\workspace\\projects\\retivision_v2\\native_opencv\\android\\.cxx\\cmake\\release\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\ysy97\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\ysy97\\workspace\\projects\\retivision_v2\\native_opencv\\android\\.cxx\\cmake\\release\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native_opencv-Release-x86_64": {
+      "buildCommand": "C:\\Users\\ysy97\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\ysy97\\workspace\\projects\\retivision_v2\\native_opencv\\android\\.cxx\\cmake\\release\\x86_64\" native_opencv",
+      "buildType": "release",
+      "toolchain": "1940281409",
+      "abi": "x86_64",
+      "artifactName": "native_opencv",
+      "files": [
+        {
+          "src": "C:\\Users\\ysy97\\workspace\\projects\\retivision_v2\\native_opencv\\ios\\Classes\\native_opencv.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\ysy97\\workspace\\projects\\retivision_v2\\build\\native_opencv\\intermediates\\cmake\\release\\obj\\x86_64\\libnative_opencv.so",
+      "runtimeFiles": [
+        "C:\\Users\\ysy97\\workspace\\projects\\retivision_v2\\native_opencv\\android\\src\\main\\jniLibs\\x86_64\\libopencv_java4.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "1940281409": {
+      "cppCompilerExecutable": "C:\\Users\\ysy97\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
